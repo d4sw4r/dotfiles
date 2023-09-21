@@ -1,6 +1,4 @@
-[user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+
 [core]
   editor = vi
   excludesfile = ~/.gitignore
@@ -12,8 +10,6 @@
   status = auto
 [init]
   defaultBranch = master
-[web]
-  browser = google-chrome
 [credential]
   helper = osxkeychain
 [push]
