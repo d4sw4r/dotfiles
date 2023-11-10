@@ -129,3 +129,4 @@ export COMPOSER_MEMORY_LIMIT=-1
 #}
 #shopt -s extdebug
 #trap prod_command_trap DEBUG
+export PATH="/opt/homebrew/opt/ruby@3.0/bin:$PATH"
